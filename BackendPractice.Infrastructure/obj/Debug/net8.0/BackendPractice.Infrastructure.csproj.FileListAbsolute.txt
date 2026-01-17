@@ -1,0 +1,16 @@
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\bin\Debug\net8.0\BackendPractice.Infrastructure.deps.json
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\bin\Debug\net8.0\BackendPractice.Infrastructure.dll
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\bin\Debug\net8.0\BackendPractice.Infrastructure.pdb
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\bin\Debug\net8.0\BackendPractice.Domain.dll
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\bin\Debug\net8.0\BackendPractice.Domain.pdb
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.csproj.AssemblyReference.cache
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.AssemblyInfoInputs.cache
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.AssemblyInfo.cs
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.sourcelink.json
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendP.8D5BBBEA.Up2Date
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.dll
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\refint\BackendPractice.Infrastructure.dll
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\BackendPractice.Infrastructure.pdb
+D:\Học\BACK _FRONTEND\btB3\BackendPractice\BackendPractice.Infrastructure\obj\Debug\net8.0\ref\BackendPractice.Infrastructure.dll
